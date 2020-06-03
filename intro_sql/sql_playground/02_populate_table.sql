@@ -1,2 +1,2 @@
-INSERT INTO people (name, age) VALUES ("Micah", 29);
-INSERT INTO people (name, age) VALUES ("Annabel", 24);
+INSERT INTO people (name) VALUES ("Jenn");
+INSERT INTO people (name) VALUES ("Kaitlyn");
