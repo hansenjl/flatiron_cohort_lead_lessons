@@ -30,7 +30,7 @@ sqlite3
 ```
 Make a new entry:
 ```sql
-INSERT INTO people (name) VALUES ("Micah");
+INSERT INTO people (name) VALUES ("Jenn");
 ```
 See the table
 ```sql
