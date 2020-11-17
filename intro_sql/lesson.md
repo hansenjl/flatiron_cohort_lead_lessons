@@ -54,14 +54,14 @@ Run sql scripts:
 1. Write the SQL to return all of the rows in the artists table?
 
 ```SQL
- SELECT * FROM artists;
+
 
 ```
 
 2. Write the SQL to select the artist with the name "Black Sabbath"
 
 ```SQL
- SELECT * FROM artists WHERE name = "Black Sabbath";
+
 
 ```
 
